@@ -1,24 +1,16 @@
 {
   "name": "2ndass",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "cookie-parser": "^1.4.3",
-    "express": "^4.16.3",
-    "express-generator": "^4.16.0",
-    "fusioncharts": "^3.13.2-sr.1",
-    "highcharts": "^6.2.0",
-    "morgan": "^1.9.1",
-    "pug": "^2.0.3",
-    "sentiment": "^5.0.1",
-    "socket.io": "^2.1.1",
-    "socket.io-client": "^2.1.1",
-    "twitter": "^1.7.1"
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "pug": "2.0.0-beta11"
   }
 }
