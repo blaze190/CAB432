@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url(../images/Khz7mn.jpg)
+}
+a {
+  color: white;
+}
+#header{
+	color:white;
+	text-align: center;
+}
+#form{
+	color: white;
+	text-align: center;
+}
